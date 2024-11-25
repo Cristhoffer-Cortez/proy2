@@ -75,7 +75,7 @@ public class Proy2 {
 
         int opcion;
         do {
-            System.out.println("\n   Menu");
+            System.out.println("\n    Menu");
             System.out.println("1. Agregar libro");
             System.out.println("2. Mostrar todos los libros");
             System.out.println("3. Salir");
